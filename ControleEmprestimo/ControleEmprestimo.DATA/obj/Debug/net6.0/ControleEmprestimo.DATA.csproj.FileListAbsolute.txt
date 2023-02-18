@@ -1,0 +1,14 @@
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.csproj.AssemblyReference.cache
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.AssemblyInfoInputs.cache
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.AssemblyInfo.cs
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.csproj.CoreCompileInputs.cache
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\bin\Debug\net6.0\ControleEmprestimo.DATA.deps.json
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\bin\Debug\net6.0\ControleEmprestimo.DATA.runtimeconfig.json
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\bin\Debug\net6.0\ControleEmprestimo.DATA.dll
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\bin\Debug\net6.0\ControleEmprestimo.DATA.pdb
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.dll
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\refint\ControleEmprestimo.DATA.dll
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.pdb
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ControleEmprestimo.DATA.genruntimeconfig.cache
+D:\Projetos\dotnet6\ControleEmprestimo\ControleEmprestimo\ControleEmprestimo.DATA\obj\Debug\net6.0\ref\ControleEmprestimo.DATA.dll
